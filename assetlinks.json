@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.artzfolio.twa",
+      "sha256_cert_fingerprints": [
+        "AE:D9:3F:EF:9E:DC:C5:9A:D8:C1:07:CD:3E:6D:48:13:6C:15:58:20:E5:EF:69:79:CE:68:49:AF:52:A6:47:28"
+      ]
+    }
+  }
+]
